@@ -1,0 +1,15 @@
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar2\HomeWorkSeminar2\Task_blueberry\obj\Debug\net6.0\Task_blueberry.csproj.AssemblyReference.cache
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar2\HomeWorkSeminar2\Task_blueberry\obj\Debug\net6.0\Task_blueberry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar2\HomeWorkSeminar2\Task_blueberry\obj\Debug\net6.0\Task_blueberry.AssemblyInfoInputs.cache
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar2\HomeWorkSeminar2\Task_blueberry\obj\Debug\net6.0\Task_blueberry.AssemblyInfo.cs
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar2\HomeWorkSeminar2\Task_blueberry\obj\Debug\net6.0\Task_blueberry.csproj.CoreCompileInputs.cache
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar2\HomeWorkSeminar2\Task_blueberry\bin\Debug\net6.0\Task_blueberry.exe
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar2\HomeWorkSeminar2\Task_blueberry\bin\Debug\net6.0\Task_blueberry.deps.json
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar2\HomeWorkSeminar2\Task_blueberry\bin\Debug\net6.0\Task_blueberry.runtimeconfig.json
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar2\HomeWorkSeminar2\Task_blueberry\bin\Debug\net6.0\Task_blueberry.dll
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar2\HomeWorkSeminar2\Task_blueberry\bin\Debug\net6.0\Task_blueberry.pdb
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar2\HomeWorkSeminar2\Task_blueberry\obj\Debug\net6.0\Task_blueberry.dll
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar2\HomeWorkSeminar2\Task_blueberry\obj\Debug\net6.0\refint\Task_blueberry.dll
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar2\HomeWorkSeminar2\Task_blueberry\obj\Debug\net6.0\Task_blueberry.pdb
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar2\HomeWorkSeminar2\Task_blueberry\obj\Debug\net6.0\Task_blueberry.genruntimeconfig.cache
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar2\HomeWorkSeminar2\Task_blueberry\obj\Debug\net6.0\ref\Task_blueberry.dll
